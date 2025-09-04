@@ -137,6 +137,6 @@ By the end of this course, students will:
 
 ---
 
-✍️ **Maintainer:** [Your Name]  
-📅 **Last Updated:** 2025  
+✍️ **Maintainer:** Usama Israr Khan  
+📅 **Last Updated:** Sep 04, 2025  
 
